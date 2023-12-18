@@ -1,0 +1,16 @@
+PODS:
+  - CorePokeDex (0.1.0)
+
+DEPENDENCIES:
+  - CorePokeDex (from `../`)
+
+EXTERNAL SOURCES:
+  CorePokeDex:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CorePokeDex: b92c0f3f7c9a69ac7e04a6077b540c34b9d2a60b
+
+PODFILE CHECKSUM: ff8590731a211ad998f759bf500cde8a97660267
+
+COCOAPODS: 1.14.3
